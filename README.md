@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nikeemma12
-- 👀 I’m interested in Gaming
+- 👋 Hey peeps, I’m Nzube
+- 👀 I’m interested in Software Development and AI
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
